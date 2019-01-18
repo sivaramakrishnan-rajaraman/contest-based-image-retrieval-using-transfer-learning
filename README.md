@@ -3,7 +3,7 @@
 Please feel free to use the jupyter notebook made available here. I have used a pre-trained VGG-19 model to find similar images in a given set of data by dissecting the trained weights and using them for feature extraction. We call it Transfer Learning (TL) since the model has already been trained on ImageNet with more than 14 million annotated images belonging to 21K categories. Despite the trained model’s inability to detect foreign high-level features from your dataset of interest it may not have seen before, the low-level features including edges, colors and textures are transferable because of their great abundance and variety in the ImageNet data. With this in mind, I used a pre-trained VGG-19 and truncated the layers for extracting features from the underlying data. The similarities between the images can be compared directly with these feature vectors by performing inner-products such as Euclidean distance or cosine similarity toward clustering the images.
 
 
-Kindly cite the following citation ff you find this notebook useful: 
+Kindly cite the following publication if you find this notebook useful: 
 
 #### Sivaramakrishnan Rajaraman, Sameer Antani. 2018. Visualizing salient network activations in convolutional neural networks for medical image modality classification. In: Proceedings of the 2018 International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), December 21-22, Solapur, Maharashtra state, INDIA 
 
