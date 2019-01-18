@@ -5,7 +5,7 @@ Please feel free to use the jupyter notebook made available here. I have used a 
 
 Kindly cite the following citation ff you find this notebook useful: 
 
-## Sivaramakrishnan Rajaraman, Sameer Antani. 2018. Visualizing salient network activations in convolutional neural networks for medical image modality classification. In: Proceedings of the 2018 International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), December 21-22, Solapur, Maharashtra state, INDIA 
+#### Sivaramakrishnan Rajaraman, Sameer Antani. 2018. Visualizing salient network activations in convolutional neural networks for medical image modality classification. In: Proceedings of the 2018 International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), December 21-22, Solapur, Maharashtra state, INDIA 
 
 
 # prerequisites:
